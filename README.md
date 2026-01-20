@@ -20,10 +20,10 @@ UIDAI Aadhaar Demographic Enrolment Dataset (CSV files)
 
 Example files:
 
-* api_data_aadhar_demographic_0_500000.csv
-* api_data_aadhar_demographic_500000_1000000.csv
-* api_data_aadhar_demographic_1500000_2000000.csv
-* api_data_aadhar_demographic_2000000_2071700.csv
+* api_data_aadhar_1.csv
+* api_data_aadhar_2.csv
+* api_data_aadhar_3.csv
+* api_data_aadhar_4.csv
 
 Key columns used:
 
